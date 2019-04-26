@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/photo/2018/02/11/338/');
+  precacheUrls.push('/post/photo/2018/02/22/349/');
 
-  precacheUrls.push('/post/photo/2018/08/23/459/');
+  precacheUrls.push('/post/text/2013/09/11/2433ed_8af006/');
 
-  precacheUrls.push('/post/photo/2019/04/08/数年后的重逢/');
+  precacheUrls.push('/post/photo/2016/08/23/1002/');
 
-  precacheUrls.push('/post/photo/2019/03/31/凤凰默然者/');
+  precacheUrls.push('/post/photo/2016/08/20/1001/');
 
-  precacheUrls.push('/post/uncategorized/2019/04/12/hello-ggad1/');
+  precacheUrls.push('/post/photo/2016/08/27/1003/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
