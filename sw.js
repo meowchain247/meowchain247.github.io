@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/photo/2018/02/27/351/');
+  precacheUrls.push('/post/video/2018/03/14/357/');
 
-  precacheUrls.push('/post/text/2013/09/11/2433ed_8af006/');
+  precacheUrls.push('/post/photo/2016/11/12/123/');
 
-  precacheUrls.push('/post/photo/2016/08/20/1001/');
+  precacheUrls.push('/post/photo/2019/04/09/dD/');
 
-  precacheUrls.push('/post/photo/2016/08/23/1002/');
+  precacheUrls.push('/post/photo/2019/04/30/creepy/');
 
-  precacheUrls.push('/post/photo/2016/08/27/1003/');
+  precacheUrls.push('/post/photo/2019/05/02/车震/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
