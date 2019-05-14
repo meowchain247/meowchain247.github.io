@@ -24,13 +24,13 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/video/2018/03/14/357/');
+  precacheUrls.push('/post/photo/2018/02/27/351/');
 
-  precacheUrls.push('/post/photo/2016/11/12/123/');
+  precacheUrls.push('/post/text/2018/07/13/2433ed_eebb7426/');
 
-  precacheUrls.push('/post/photo/2019/04/09/dD/');
+  precacheUrls.push('/post/photo/2018/10/10/480/');
 
-  precacheUrls.push('/post/photo/2019/04/30/creepy/');
+  precacheUrls.push('/post/photo/2019/05/09/首饰盒/');
 
   precacheUrls.push('/post/photo/2019/05/02/车震/');
 
