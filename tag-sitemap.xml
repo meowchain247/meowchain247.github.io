@@ -198,14 +198,7 @@
     </url>
 
     <url>
-        <loc>https://meowchain247.github.io/tags/inertia/</loc>
-        <lastmod>2017-01-23T23:45:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://meowchain247.github.io/tags/impulse/</loc>
+        <loc>https://meowchain247.github.io/tags/thadbart/</loc>
         <lastmod>2017-01-23T23:45:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -219,7 +212,14 @@
     </url>
 
     <url>
-        <loc>https://meowchain247.github.io/tags/thadbart/</loc>
+        <loc>https://meowchain247.github.io/tags/impulse/</loc>
+        <lastmod>2017-01-23T23:45:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://meowchain247.github.io/tags/inertia/</loc>
         <lastmod>2017-01-23T23:45:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1584,14 +1584,14 @@
     </url>
 
     <url>
-        <loc>https://meowchain247.github.io/tags/dick-grayson/</loc>
+        <loc>https://meowchain247.github.io/tags/damian-wayne/</loc>
         <lastmod>2019-02-02T07:36:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://meowchain247.github.io/tags/damian-wayne/</loc>
+        <loc>https://meowchain247.github.io/tags/dick-grayson/</loc>
         <lastmod>2019-02-02T07:36:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1789,6 +1789,27 @@
     <url>
         <loc>https://meowchain247.github.io/tags/%E6%8B%89%E5%BE%B7%EF%BC%8C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7%EF%BC%8C%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF/</loc>
         <lastmod>2019-05-30T07:30:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://meowchain247.github.io/tags/dmc%EF%BC%8Cn%E6%96%B0v%EF%BC%8Cnero%EF%BC%8Cv/</loc>
+        <lastmod>2019-07-17T06:18:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://meowchain247.github.io/tags/jojo%EF%BC%8C%E8%8C%B8%E7%B1%B3%EF%BC%8C%E8%8C%B8%E8%8E%93%EF%BC%8C%E8%8C%B8%E8%80%81%E6%9D%BF%EF%BC%8Cdio%E5%B8%83%EF%BC%8C%E8%8C%B8%E5%B8%83/</loc>
+        <lastmod>2019-07-17T07:30:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://meowchain247.github.io/tags/fate%EF%BC%8C%E5%A3%AB%E6%A8%B1%EF%BC%8C%E9%97%B4%E6%A1%90%E6%A8%B1%EF%BC%8C%E5%8D%AB%E5%AE%AB%E5%A3%AB%E9%83%8E/</loc>
+        <lastmod>2019-07-17T08:18:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
