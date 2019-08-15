@@ -1192,13 +1192,6 @@
     </url>
 
     <url>
-        <loc>https://meowchain247.github.io/tags/%E6%9A%97%E5%B7%B7%E7%BB%84/</loc>
-        <lastmod>2018-12-08T02:37:07.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://meowchain247.github.io/tags/gradence/</loc>
         <lastmod>2018-12-08T02:37:07.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1214,6 +1207,13 @@
 
     <url>
         <loc>https://meowchain247.github.io/tags/credence/</loc>
+        <lastmod>2018-12-08T02:37:07.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://meowchain247.github.io/tags/%E6%9A%97%E5%B7%B7%E7%BB%84/</loc>
         <lastmod>2018-12-08T02:37:07.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
