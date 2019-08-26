@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/photo/2018/03/04/355/');
-
-  precacheUrls.push('/post/photo/2018/07/29/439/');
+  precacheUrls.push('/post/photo/2018/03/16/360/');
 
   precacheUrls.push('/post/photo/2019/05/02/车震/');
 
+  precacheUrls.push('/post/photo/2019/05/09/首饰盒/');
+
   precacheUrls.push('/post/photo/2019/05/15/明日方舟/');
 
-  precacheUrls.push('/post/photo/2019/05/09/首饰盒/');
+  precacheUrls.push('/post/photo/2019/05/30/拉德4/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
